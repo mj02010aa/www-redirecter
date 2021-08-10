@@ -1,0 +1,2 @@
+# www-redirecter
+⚡ WWW Redirecter.
